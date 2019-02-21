@@ -9,8 +9,8 @@ body, html {
     display: flex;
     flex-direction: column;
     background-color: lavender;
-    height: 400px;
-    width: 800px;
+    height: 40vw;
+    width: 80vw;
     border-radius: 5px;
     margin: auto;
     box-shadow: 3px 3px 5px lightseagreen;
