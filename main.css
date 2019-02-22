@@ -18,11 +18,11 @@ html {
 #date {
   margin: 50px;
   text-align: center;
-  font-size: 6vw;
+  font-size: 5vw;
 }
 #time {
   background-color: ivory;
-  font-size: 8vw;
+  font-size: 7vw;
   margin: 50px;
   border-radius: 3px;
   text-align: center;
@@ -31,6 +31,18 @@ html {
 @media (max-width: 650px) {
   #date,
   #time {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+}
+@media (min-width: 1200px) {
+  #date {
+    font-size: 3vw;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  #time {
+    font-size: 5vw;
     margin-top: 30px;
     margin-bottom: 30px;
   }
