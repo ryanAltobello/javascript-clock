@@ -1,3 +1,3 @@
 Simple javascript clock
 
-[Live example](https://ryanaltobello.github.io/javascript-clock/)
+[Live App](https://ryanaltobello.github.io/javascript-clock/)
