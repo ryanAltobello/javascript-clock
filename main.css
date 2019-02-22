@@ -6,7 +6,6 @@ html {
   display: flex;
 }
 #container {
-  position: relative;
   display: flex;
   flex-direction: column;
   background-color: lavender;
